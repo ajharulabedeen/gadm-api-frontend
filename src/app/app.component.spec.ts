@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'gadm-frontend'`, () => {
+  it(`should have as title 'gadm-api-frontend'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('gadm-frontend');
+    expect(app.title).toEqual('gadm-api-frontend');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('gadm-frontend app is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('gadm-api-frontend app is running!');
   });
 });
