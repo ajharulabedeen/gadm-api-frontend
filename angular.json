@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "gadm-api-frontend"
+  "defaultProject": "gadm-api-frontend",
+  "cli": {
+    "analytics": "a1b33b35-c0cd-4d7a-93e6-ae262d18f74d"
+  }
 }
