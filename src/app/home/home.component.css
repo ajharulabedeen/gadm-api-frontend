@@ -9,6 +9,8 @@
 
 
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
+
+
 * {
     box-sizing: border-box !important;
 }
@@ -41,25 +43,25 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
     line-height: normal;
     color: #111111;
-    margin: 0 
+    margin: 0
 }
 h1 {
-    font-size: 24px 
+    font-size: 24px
 }
 h2 {
-    font-size: 22px 
+    font-size: 22px
 }
 h3 {
-    font-size: 18px 
+    font-size: 18px
 }
 h4 {
-    font-size: 16px 
+    font-size: 16px
 }
 h5 {
-    font-size: 14px 
+    font-size: 14px
 }
 h6 {
-    font-size: 13px 
+    font-size: 13px
 }
 *, *::after, *::before {
     -webkit-box-sizing: border-box;
@@ -69,7 +71,7 @@ h6 {
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     color: #212121;
     text-decoration: none!important;
-    opacity: 1 
+    opacity: 1
 }
 button:focus {
     outline: none;
@@ -878,7 +880,7 @@ nav.main-menu {
 }
 .main-menu ul li:first-child {
     margin-left: 0;
-   
+
 }
 .main-menu ul>li>ul {
     opacity: 0;
@@ -952,7 +954,7 @@ nav.main-menu {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 .menu-area {
    float: left;
-   
+
 }
 
 .header_information {
@@ -964,9 +966,9 @@ nav.main-menu {
    margin-bottom: 0;
    position: absolute;
    width: 88%;
-   
+
    height: 90px;
-  
+
   margin-top: -20px;
    right: 0;
 }
@@ -1027,7 +1029,7 @@ margin-left: -51px;
    content: "";
    position: absolute;
    top: 0;
- 
+
 background-repeat: no-repeat;
 }
 
@@ -1102,7 +1104,7 @@ margin-right: 10px;
     width: 100%;
     bottom: auto;
     padding: 0;
-    margin-top: 90px 
+    margin-top: 90px
 }
 .img_bg {
     text-align: center;
@@ -1153,11 +1155,11 @@ margin-right: 10px;
 .about {
     background-color: #fff;
     padding-top: 90px;
-    
+
 }
 .about .about-box {
    text-align: left;
-   
+
 }
 .about .about-box h2 {
     padding: 0;
@@ -1189,7 +1191,7 @@ border-radius: 30px;
 }
 
 
-.about .about-box a:hover{ 
+.about .about-box a:hover{
     background-color: #200769;
     border: #200769 solid 1px;
    color: #fff;
@@ -1426,14 +1428,14 @@ margin-top: 20px;
    height: 100%;
    min-height: 470px;
 }
-.padding_left2 {padding: 0px 0px;} 
+.padding_left2 {padding: 0px 0px;}
 .white_color {background: #fff; box-shadow: 0px 0px 11px 0px;}
 .map figure {margin: 0px;}
 .map figure img {width: 100%;}
 
 .white_bg {
     background-color: #fff;
-    padding: 40px 30px 30px 30px 
+    padding: 40px 30px 30px 30px
 }
 .contact .titlepage {
     text-align: center;
@@ -1452,7 +1454,7 @@ margin-top: 20px;
 }
 .contact .contact_bg {
    max-width: 541px;
-   
+
     padding: 0;
     padding: 60px 0px;
 }
@@ -1486,7 +1488,7 @@ margin-top: 20px;
 border: #200769 solid 1px;
 color: #fff;
 transition: all 0.3s ease-in;
-border-radius:50px; 
+border-radius:50px;
 }
 /** end contact section **/
 
@@ -1494,7 +1496,7 @@ border-radius:50px;
 /** footer **/
 .footer {
     background: #0f0824;
-    
+
     margin-top: 125px;
 }
 .footer h2 {
@@ -1594,7 +1596,7 @@ ul.Menu_footer li a {
     color: #fcfbfb;
     font-size: 17px;
     padding-left: 30px;
-   
+
 }
 ul.Menu_footer li a:hover{
     color: #f4b328 ;
@@ -1611,7 +1613,7 @@ ul.Links_footer li a {
     color: #fcfbfb;
     font-size: 17px;
     padding-left: 30px;
-    
+
 }
 ul.Links_footer li a:hover{
     color: #f4b328  ;
@@ -1654,7 +1656,7 @@ ul.loca li a {
     font-size: 18px;
     line-height: 22px;
     text-align: center;
-  
+
 }
 .copyright a {
     color: #fff;
