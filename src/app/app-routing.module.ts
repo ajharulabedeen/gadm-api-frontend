@@ -1,7 +1,8 @@
 import {NgModule} from '@angular/core';
 import {Routes, RouterModule} from '@angular/router';
 import {HomeComponent} from './home/home.component';
-import {FeedbackComponent} from './feedback/feedback.component';
+import { FeedbackComponent } from './home/feedback/feedback.component';
+//import {FeedbackComponent} from './feedback/feedback.component';
 
 
 const routes: Routes = [

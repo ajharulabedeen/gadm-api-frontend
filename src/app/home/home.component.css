@@ -932,7 +932,7 @@ nav.main-menu {
     vertical-align: middle;
     margin: 22px 0px;
 }
-.main-menu ul>li:nth-child (6) {
+.main-menu ul>li:nth-child(6) {
     padding-right: 0px;
 }
 .nav>li {
